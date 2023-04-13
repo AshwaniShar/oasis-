@@ -2,4 +2,5 @@ Iris Flower Segmentation
 
 
 Iris flower has three species:- Setosa, Versicolor, and Virginica , Which differs according to their measurements.
-If we have the measurements of the iris flowers according to their species, and we can train a Machine Learning model that can learn from the measurements of the iris species and classify them.
+If we have the measurements of the iris flowers according to their species, and we can train a Machine Learning
+model that can learn from the measurements of the iris species and classify them.
